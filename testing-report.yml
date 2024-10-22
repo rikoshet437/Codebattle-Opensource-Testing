@@ -51,22 +51,22 @@
     Проверка правильности присвоения ничьи
     status: pass
 
-  - summary: | 
+- summary: | 
     Проверка возможности просмотра записей матчей
     status: fail
 
-  - summary: | 
+- summary: | 
     Проверка работы таблицы лидеров
     status: pass
   
-  - summary: | 
+- summary: | 
     Проверка работы внутриигрового чата
     status: pass
 
-  - summary: | 
+- summary: | 
     Проверка кроссбраузерности сайта
     status: pass
 
-  - summary: | 
+- summary: | 
     Провекрка отображения сайта на мобильных устройствах
     status: pass
