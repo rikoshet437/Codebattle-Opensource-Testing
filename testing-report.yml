@@ -1,71 +1,71 @@
 ---
 - summary: |
     Проверка регистрации нового пользователя
-  status: fail
+status: fail
 
 - summary: |
     Проверка авторизиции существующего пользователся
-  status: fail
+status: fail
 
 - summary: | 
     Проверка авторизиции через GitHub
-  status: pass
+status: pass
 
 - summary: | 
     Проверка возможности создания игры с ботом
-  status: pass
+status: pass
 
 - summary: | 
     Проверка возможности создания игры с другими игроками
-  status: pass
+status: pass
   
 - summary: | 
     Проверка возможности создания Приватной игры
-  status: pass
+status: pass
 
 - summary: | 
     Проверка возможности присоединения к открытой игре
-    status: pass
+status: pass
     
 - summary: | 
     Проверка соответствия задания у игроков
-    status: pass
+status: pass
 
 - summary: | 
     Проверка возможности переключения языка в задании
-    status: pass
+status: pass
     
 - summary: | 
     Проверка правильности работы автотестов
-    status: pass
+status: pass
 
 - summary: | 
     Проверка возможности видеть процесс написания кода противником
-    status: pass
+status: pass
 
 - summary: | 
     Проверка правильности присвоения победы
-    status: pass
+status: pass
 
 - summary: | 
     Проверка правильности присвоения ничьи
-    status: pass
+status: pass
 
 - summary: | 
     Проверка возможности просмотра записей матчей
-    status: fail
+status: fail
 
 - summary: | 
     Проверка работы таблицы лидеров
-    status: pass
+status: pass
   
 - summary: | 
     Проверка работы внутриигрового чата
-    status: pass
+status: pass
 
 - summary: | 
     Проверка кроссбраузерности сайта
-    status: pass
+status: pass
 
 - summary: | 
     Провекрка отображения сайта на мобильных устройствах
