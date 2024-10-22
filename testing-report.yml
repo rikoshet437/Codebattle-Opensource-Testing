@@ -1,11 +1,11 @@
 ---
 - summary: |
     Проверка регистрации нового пользователя
-  status: pass
+  status: fail
 
 - summary: |
     Проверка авторизиции существующего пользователся
-  status: pass
+  status: fail
 
 - summary: | 
     Проверка авторизиции через GitHub
