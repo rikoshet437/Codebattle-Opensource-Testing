@@ -69,4 +69,4 @@ status: pass
 
 - summary: | 
     Провекрка отображения сайта на мобильных устройствах
-    status: pass
+status: pass
